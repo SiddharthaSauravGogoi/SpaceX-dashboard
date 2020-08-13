@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spacex-launch-dash/static/css/main.7b822dab.chunk.css",
+    "main.js": "/spacex-launch-dash/static/js/main.cc2745fd.chunk.js",
+    "runtime-main.js": "/spacex-launch-dash/static/js/runtime-main.fe154cdc.js",
+    "static/css/2.81de0c22.chunk.css": "/spacex-launch-dash/static/css/2.81de0c22.chunk.css",
+    "static/js/2.93a67c98.chunk.js": "/spacex-launch-dash/static/js/2.93a67c98.chunk.js",
+    "index.html": "/spacex-launch-dash/index.html",
+    "precache-manifest.33c3074ee49800f8308b503f355034f2.js": "/spacex-launch-dash/precache-manifest.33c3074ee49800f8308b503f355034f2.js",
+    "service-worker.js": "/spacex-launch-dash/service-worker.js",
+    "static/js/2.93a67c98.chunk.js.LICENSE.txt": "/spacex-launch-dash/static/js/2.93a67c98.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/spacex-launch-dash/static/media/spinner.ba569acc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe154cdc.js",
+    "static/css/2.81de0c22.chunk.css",
+    "static/js/2.93a67c98.chunk.js",
+    "static/css/main.7b822dab.chunk.css",
+    "static/js/main.cc2745fd.chunk.js"
+  ]
+}
