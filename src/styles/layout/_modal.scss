@@ -1,0 +1,22 @@
+.launch-details-modal{
+    @include justify-center;
+    width: 90%;
+}
+
+.modal-display-text{
+    padding: 16px;
+    width: 100%;
+    cursor: pointer;
+}
+
+@media (min-width: 425px) and (max-width: 768px) {
+    .launch-details-modal{
+        width: 48%;
+    }
+}
+
+@media (min-width: 768px) {
+    .launch-details-modal {
+        width: 33%;
+    }
+}

@@ -1,0 +1,33 @@
+.container {
+    @include column-center;
+    width: 100%;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.launch-result {
+    @include justify-center; 
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.filter-section {
+    @include justify-center;
+    width: 99%;
+}
+
+.filter-wrapper{
+    @include display-flex-col;
+}
+
+.date-wrapper{
+    @include display-flex;
+}
+
+.datepicker-input-wrapper{
+    @include align-center;
+    @include flex-direction-col;
+}
+.modal-header{
+    @include space-between-center;
+}
